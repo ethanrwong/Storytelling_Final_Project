@@ -1,2 +1,2 @@
 # Storytelling_Final_Project
-Final Project Repository for Zena Drakou's Applications of Data Storytelling Course
+Group Members: Ethan Wong, Timmy Ren, Michael Crosson, Andy Ma
